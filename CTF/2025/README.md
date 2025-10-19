@@ -56,7 +56,7 @@ See [SETUP](docs/SETUP.md) for deployment instructions.
 | OSINT | 2 | 1 | 0 |
 | Reverse Engineering | 1 | 1 | 0 |
 | Web Exploitation | 2 | 1 | 0 |
-| Digital Forensics | - | - | - |
+| Digital Forensics | 8 | 3 | 4 |
 
 ## 🏆 Flag Format
 
@@ -68,8 +68,8 @@ All flags follow the format: `BGCTUB_ITC{...}`
 
 ## 👥 Contributors
 
-- **EHT Community**
-- Challenge Authors: @h4x0r3rr0r
+- **(EHT Community)[https://www.facebook.com/ehtcommunity]**
+- Challenge Authors: (h4x0r3rr0r)[https://www.facebook.com/h4x0r3rr0r]
 
 ## 📞 Contact
 
