@@ -26,7 +26,7 @@ Each web challenge includes a Dockerfile and web files.
 
 #### Deploy Individual Challenge
 ```bash
-cd "Web Exploitation/Robots/challenge_files/"
+cd "BGCTUB_Central_IT_Fest/CTF/2025/Web Exploitation/Robots/challenge_files/"
 docker build -t robots-chall .
 docker run -d -p 9001:9001 robots-chall
 ```
@@ -34,15 +34,15 @@ docker run -d -p 9001:9001 robots-chall
 #### Deploy All Web Challenges
 ```bash
 # From repository root
-cd "Web Exploitation/Robots/challenge_files/"
+cd "BGCTUB_Central_IT_Fest/CTF/2025/Web Exploitation/Robots/challenge_files/"
 docker build -t robots-chall .
 docker run -d -p 9001:9001 robots-chall
 
-cd "Web Exploitation/Too Trusting/challenge_files/"
+cd "BGCTUB_Central_IT_Fest/CTF/2025/Web Exploitation/Too Trusting/challenge_files/"
 docker build -t too_trusting-chall .
 docker run -d -p 9002:9002 too_trusting-chall
 
-cd "Web Exploitation/Employee Portal/challenge_files/"
+cd "BGCTUB_Central_IT_Fest/CTF/2025/Web Exploitation/Employee Portal/challenge_files/"
 docker build -t employee_portal-chall .
 docker run -d -p 9003:9003 employee_portal-chall
 ```
