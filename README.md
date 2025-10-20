@@ -1,4 +1,4 @@
-# BGCTUB Central IT Fest CTF
+# BGCTUB Central IT Fest
 
 ![CTF Banner](assets/main-banner.png)
 
